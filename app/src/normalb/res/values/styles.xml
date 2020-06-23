@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="BBBB" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#aaa</item>
+        <item name="colorPrimaryDark">#ddd</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
